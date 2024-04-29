@@ -8,13 +8,13 @@ Junior data scientist with a strong foundation in statistical analysis, programm
 
 ## SKILLS 
 
-●	Statistical analysis
-●	Programming languages(python, R and SQL)
-●	Machine Learning
-●	Data Visualization(Matplotlib, Seaborn, ggplot and Tableau)
-●	Data Wrangling
-●	Big Data Technologies
-●	Communication Skills
+-	Statistical analysis
+-	Programming languages(python, R and SQL)
+-	Machine Learning
+-	Data Visualization(Matplotlib, Seaborn, ggplot and Tableau)
+-	Data Wrangling
+-	Big Data Technologies
+-	Communication Skills
 
 ## Projects
 
