@@ -1,4 +1,3 @@
-# edwinmwai.github.io
 # Edwin Gitemi Mwai
 ## Data Scientist| Data Analyst
 +254 740 392 451 |  edwingitemi@gmail.com 
