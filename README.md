@@ -18,7 +18,7 @@ Junior data scientist with a strong foundation in statistical analysis, programm
 
 ## Projects
 
-### (Telecom churn analysis)(https://github.com/EdwinMwai/churn-analysis/blob/main/README.md)
+### [Telecom churn analysis](https://github.com/EdwinMwai/churn-analysis/blob/main/README.md)
 The objective of this project was to understand and predict customer attrition by analyzing user behavior. It involved data analysis, predictive modeling, and implementing retention strategies to reduce customer turnover and enhance business profitability
 
 ### YouTube earnings predictions  - Link 
