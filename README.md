@@ -21,10 +21,10 @@ Junior data scientist with a strong foundation in statistical analysis, programm
 ### [Telecom churn analysis](https://github.com/EdwinMwai/churn-analysis/blob/main/README.md)
 The objective of this project was to understand and predict customer attrition by analyzing user behavior. It involved data analysis, predictive modeling, and implementing retention strategies to reduce customer turnover and enhance business profitability
 
-### YouTube earnings predictions  - Link 
+### [YouTube earnings predictions](https://github.com/EdwinMwai/You-Tube-Stats-Analysis)
 The objective of this collaborative project was to leverage data analysis and machine learning techniques to predict potential revenue for content creators, taking into account various factors such as views, engagement metrics, and subscriber count. The goal is to assist creators in refining their content strategies and maximizing their revenue generation potential on the platform.
 
-### Deep Learning Analysis of X-ray Images for Pneumonia Detection  - Link 
+### [Deep Learning Analysis of X-ray Images for Pneumonia Detection](https://github.com/EdwinMwai/Deep-Learning-Analysis-of-X-Ray-Images-for-Pneumonia-Detection)
 The objective of this collaborative project was to employ deep learning to automatically detect pneumonia from X-ray images. By training neural networks on annotated datasets, it was able to assist healthcare professionals in faster and more accurate diagnosis, potentially improving patient outcomes..
 
 ## EXPERIENCE
